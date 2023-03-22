@@ -1,0 +1,13 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background:url(../../../assets/fondologin.jpg);
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: url(../../../assets/fondologin.jpg);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background:url(../../../assets/fondologin.jpg);
+    }
+    .bg{
+        background-image:url(../../../assets/fondoP.webp);
+    }

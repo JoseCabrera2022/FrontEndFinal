@@ -10,7 +10,7 @@ import { NuevoUsuario } from '../model/nuevo-usuario';
 })
 export class AuthService {
   //authURL = 'https://NOMBRE_DEPLOY.herokuapp.com/auth/';
-  authURL = 'https://backendrender-4dvj.onrender.com/auth/'
+  authURL = 'https://backendrender-4dvj.onrender.com/auth/';
 
   constructor(private httpClient: HttpClient) {}
 

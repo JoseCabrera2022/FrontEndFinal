@@ -8,7 +8,7 @@ import { Proyectos } from '../model/proyectos';
 })
 export class SProyectosService {
   //proyURL = 'https://NOMBRE_DEPLOY.herokuapp.com/proy/';
-  proyURL = 'https://backendrender-4dvj.onrender.com/proy/'
+  proyURL = 'https://backendrender-4dvj.onrender.com/proy/';
 
   constructor(private httpClient: HttpClient) { }
 

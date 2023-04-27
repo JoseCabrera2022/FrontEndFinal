@@ -1,3 +1,5 @@
 .container{
     background-image: url(../../../assets/editedu.jpeg);
+    background-repeat: no-repeat;
+    background-size:200%;
 }

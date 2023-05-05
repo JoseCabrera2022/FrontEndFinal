@@ -9,3 +9,8 @@ div{
 h1, h3{
     display:inline;
 }
+.container{
+    background-image: url(../../../assets/editexplaboral.jpg);
+    background-repeat: no-repeat;
+    background-size:200%;
+}

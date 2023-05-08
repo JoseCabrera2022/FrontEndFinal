@@ -1,8 +1,6 @@
 .row{
     padding: 20px;
-    background-image: url(../../../assets/proyectos.webp);
-    background-repeat: no-repeat;
-    background-size:200%;
+    background: transparent;
 }
 .contenedor{
     width: auto;
